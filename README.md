@@ -7,6 +7,12 @@ For the code given in the book **Programming Windows, Fifth Edition** by *Charle
 * ISBN-10: `157231995X` (`1-57231-995-X` as given on Petzold's site)
 * ISBN-13: `978-1572319950`
 
+[`Petzold.zip`](https://web.archive.org/web/20120509221704/http://www.computersciencelab.com/Petzold.zip):
+
+* SHA256 digest: `ce899ede84ada327f9900e29eed7047ca44cd381799b5178cfd179ff8415fe99  Petzold.zip`
+* SHA1 digest: `73abc88ccc9ce6ecfacb13a897cb603fccb9ef10  Petzold.zip`
+* MD5 digest: `decab08a1e44737bb9df38ee83d1d2b8  Petzold.zip`
+
 [Charles Petzold's website](https://www.charlespetzold.com/pw5/) ([archive](https://web.archive.org/web/20240527163132/https://www.charlespetzold.com/pw5/)) mentions that **GNU Makefiles** for building the code examples from the book are available; *however*, the website linked to has recently gone away, though was [archived](https://web.archive.org/web/20240408162326/http://www.computersciencelab.com/Petzold.htm) by the Wayback machine many times. Still, finding these makefiles isn't easy if you don't think to check for an archived version.
 
 > Programming Windows is a tutorial for programmers wishing to write applications for Windows using the C programming
