@@ -1,0 +1,1383 @@
+; This PackingList.txt file should accompany my PetzoldConvert.exe
+; program which installs Gnu makefiles for each of the 145 example
+; programs in Charles Petzold's "Programming Windows Fifth Edition".
+; More explanation can be found at:
+;
+;     http://www.computersciencelab.com/Petzold.htm
+;
+; John Kopplin 2/1/2003
+
+Petzold
+Chap01\HelloMsg
+  HelloMsg.c
+  HelloMsg.mak
+  HelloMsg.prj
+Chap01\HelloMsg\Release
+  HelloMsg.exe
+Chap01\HelloMsg\Debug
+  HelloMsg.exe
+Chap02\ScrnSize
+  ScrnSize.c
+  ScrnSize.mak
+  ScrnSize.prj
+Chap02\ScrnSize\Release
+  ScrnSize.exe
+Chap02\ScrnSize\Debug
+  ScrnSize.exe
+Chap03\HelloWin
+  HelloWin.c
+  HelloWin.mak
+  HelloWin.prj
+Chap03\HelloWin\Release
+  HelloWin.exe
+Chap03\HelloWin\Debug
+  HelloWin.exe
+Chap04\SysMets1
+  SysMets.h
+  SysMets1.c
+  SysMets1.mak
+  SysMets1.prj
+Chap04\SysMets1\Release
+  SysMets1.exe
+Chap04\SysMets1\Debug
+  SysMets1.exe
+Chap04\SysMets2
+  SysMets.h
+  SysMets2.c
+  SysMets2.mak
+  SysMets2.prj
+Chap04\SysMets2\Release
+  SysMets2.exe
+Chap04\SysMets2\Debug
+  SysMets2.exe
+Chap04\SysMets3
+  SysMets.h
+  SysMets3.c
+  SysMets3.mak
+  SysMets3.prj
+Chap04\SysMets3\Release
+  SysMets3.exe
+Chap04\SysMets3\Debug
+  SysMets3.exe
+Chap05\DevCaps1
+  DevCaps1.c
+  DevCaps1.mak
+  DevCaps1.prj
+Chap05\DevCaps1\Release
+  DevCaps1.exe
+Chap05\DevCaps1\Debug
+  DevCaps1.exe
+Chap05\SineWave         ; Chap22 also has a SineWave project
+  SineWave.c
+  SineWave.mak
+  SineWave.prj
+Chap05\SineWave\Release
+  SineWave.exe
+Chap05\SineWave\Debug
+  SineWave.exe
+Chap05\LineDemo
+  LineDemo.c
+  LineDemo.mak
+  LineDemo.prj
+Chap05\LineDemo\Release
+  LineDemo.exe
+Chap05\LineDemo\Debug
+  LineDemo.exe
+Chap05\Bezier
+  Bezier.c
+  Bezier.mak
+  Bezier.prj
+Chap05\Bezier\Release
+  Bezier.exe
+Chap05\Bezier\Debug
+  Bezier.exe
+Chap05\AltWind
+  AltWind.c
+  AltWind.mak
+  AltWind.prj
+Chap05\AltWind\Release
+  AltWind.exe
+Chap05\AltWind\Debug
+  AltWind.exe
+Chap05\WhatSize
+  WhatSize.c
+  WhatSize.mak
+  WhatSize.prj
+Chap05\WhatSize\Release
+  WhatSize.exe
+Chap05\WhatSize\Debug
+  WhatSize.exe
+Chap05\RandRect
+  RandRect.c
+  RandRect.mak
+  RandRect.prj
+Chap05\RandRect\Release
+  RandRect.exe
+Chap05\RandRect\Debug
+  RandRect.exe
+Chap05\Clover
+  Clover.c
+  Clover.mak
+  Clover.prj
+Chap05\Clover\Release
+  Clover.exe
+Chap05\Clover\Debug
+  Clover.exe             ; 73 files thru Chap05
+Chap06\SysMets4
+  SysMets.h
+  SysMets4.c
+  SysMets4.mak
+  SysMets4.prj
+Chap06\SysMets4\Debug
+  SysMets4.exe
+Chap06\SysMets4\Release
+  SysMets4.exe
+Chap06\KeyView1
+  KeyView1.c
+  KeyView1.mak
+  KeyView1.prj
+Chap06\KeyView1\Debug
+  KeyView1.exe
+Chap06\KeyView1\Release
+  KeyView1.exe
+Chap06\StokFont
+  StokFont.c
+  StokFont.mak
+  StokFont.prj
+Chap06\StokFont\Debug
+  StokFont.exe
+Chap06\StokFont\Release
+  StokFont.exe
+Chap06\KeyView2
+  KeyView2.c
+  KeyView2.mak
+  KeyView2.prj
+Chap06\KeyView2\Debug
+  KeyView2.exe
+Chap06\KeyView2\Release
+  KeyView2.exe
+Chap06\Typer
+  Typer.c
+  Typer.mak
+  Typer.prj
+Chap06\Typer\Debug
+  Typer.exe
+Chap06\Typer\Release
+  Typer.exe              ; 99 files thru Chap06
+Chap07\Connect
+  Connect.c
+  Connect.mak
+  Connect.prj
+Chap07\Connect\Debug
+  Connect.exe
+Chap07\Connect\Release
+  Connect.exe
+Chap07\Checker1
+  Checker1.c
+  Checker1.mak
+  Checker1.prj
+Chap07\Checker1\Debug
+  Checker1.exe
+Chap07\Checker1\Release
+  Checker1.exe
+Chap07\Checker2
+  Checker2.c
+  Checker2.mak
+  Checker2.prj
+Chap07\Checker2\Debug
+  Checker2.exe
+Chap07\Checker2\Release
+  Checker2.exe
+Chap07\Checker3
+  Checker3.c
+  Checker3.mak
+  Checker3.prj
+Chap07\Checker3\Debug
+  Checker3.exe
+Chap07\Checker3\Release
+  Checker3.exe
+Chap07\Checker4
+  Checker4.c
+  Checker4.mak
+  Checker4.prj
+Chap07\Checker4\Debug
+  Checker4.exe
+Chap07\Checker4\Release
+  Checker4.exe
+Chap07\BlokOut1
+  BlokOut1.c
+  BlokOut1.mak
+  BlokOut1.prj
+Chap07\BlokOut1\Debug
+  BlokOut1.exe
+Chap07\BlokOut1\Release
+  BlokOut1.exe
+Chap07\BlokOut2
+  BlokOut2.c
+  BlokOut2.mak
+  BlokOut2.prj
+Chap07\BlokOut2\Debug
+  BlokOut2.exe
+Chap07\BlokOut2\Release
+  BlokOut2.exe
+Chap07\SysMets
+  SysMets.c
+  SysMets.h
+  SysMets.mak
+  SysMets.prj
+Chap07\SysMets\Debug
+  SysMets.exe
+Chap07\SysMets\Release
+  SysMets.exe            ; 140 files thru Chap07
+Chap08\Beeper1
+  Beeper1.c
+  Beeper1.mak
+  Beeper1.prj
+Chap08\Beeper1\Debug
+  Beeper1.exe
+Chap08\Beeper1\Release
+  Beeper1.exe
+Chap08\Beeper2
+  Beeper2.c
+  Beeper2.mak
+  Beeper2.prj
+Chap08\Beeper2\Debug
+  Beeper2.exe
+Chap08\Beeper2\Release
+  Beeper2.exe
+Chap08\DigClock
+  DigClock.c
+  DigClock.mak
+  DigClock.prj
+Chap08\DigClock\Debug
+  DigClock.exe
+Chap08\DigClock\Release
+  DigClock.exe
+Chap08\Clock
+  Clock.c
+  Clock.mak
+  Clock.prj
+Chap08\Clock\Debug
+  Clock.exe
+Chap08\Clock\Release
+  Clock.exe
+Chap08\WhatClr
+  WhatClr.c
+  WhatClr.mak
+  WhatClr.prj
+Chap08\WhatClr\Debug
+  WhatClr.exe
+Chap08\WhatClr\Release
+  WhatClr.exe            ; 165 files thru Chap08
+Chap09\BtnLook
+  BtnLook.c
+  BtnLook.mak
+  BtnLook.prj
+Chap09\BtnLook\Debug
+  BtnLook.exe
+Chap09\BtnLook\Release
+  BtnLook.exe
+Chap09\OwnDraw
+  OwnDraw.c
+  OwnDraw.mak
+  OwnDraw.prj
+Chap09\OwnDraw\Debug
+  OwnDraw.exe
+Chap09\OwnDraw\Release
+  OwnDraw.exe
+Chap09\Colors1
+  Colors1.c
+  Colors1.mak
+  Colors1.prj
+Chap09\Colors1\Debug
+  Colors1.exe
+Chap09\Colors1\Release
+  Colors1.exe
+Chap09\PopPad1
+  PopPad1.c
+  PopPad1.mak
+  PopPad1.prj
+Chap09\PopPad1\Debug
+  PopPad1.exe
+Chap09\PopPad1\Release
+  PopPad1.exe
+Chap09\Environ
+  Environ.c
+  Environ.mak
+  Environ.prj
+Chap09\Environ\Debug
+  Environ.exe
+Chap09\Environ\Release
+  Environ.exe
+Chap09\head
+  head.c
+  head.mak
+  head.prj
+Chap09\head\Debug
+  head.exe
+Chap09\head\Release
+  head.exe             ; 195 files thru Chap09
+Chap10\IconDemo
+  IconDemo.c
+  IconDemo.rc
+  Resource.h
+  afxres.h
+  IconDemo.mak
+  IconDemo.prj
+Chap10\IconDemo\Debug
+  IconDemo.exe
+Chap10\IconDemo\Release
+  IconDemo.exe
+Chap10\PoePoem
+  PoePoem.c
+  PoePoem.rc
+  Resource.h
+  afxres.h
+  PoePoem.mak
+  PoePoem.prj
+Chap10\PoePoem\Debug
+  PoePoem.exe
+Chap10\PoePoem\Release
+  PoePoem.exe
+Chap10\MenuDemo
+  MenuDemo.c
+  MenuDemo.rc
+  Resource.h
+  afxres.h
+  MenuDemo.mak
+  MenuDemo.prj
+Chap10\MenuDemo\Debug
+  MenuDemo.exe
+Chap10\MenuDemo\Release
+  MenuDemo.exe
+Chap10\PopMenu
+  PopMenu.c
+  PopMenu.rc
+  Resource.h
+  afxres.h
+  PopMenu.mak
+  PopMenu.prj
+Chap10\PopMenu\Debug
+  PopMenu.exe
+Chap10\PopMenu\Release
+  PopMenu.exe
+Chap10\PoorMenu
+  PoorMenu.c
+  PoorMenu.mak
+  PoorMenu.prj
+Chap10\PoorMenu\Debug
+  PoorMenu.exe
+Chap10\PoorMenu\Release
+  PoorMenu.exe
+Chap10\NoPopups
+  NoPopups.c
+  NoPopups.rc
+  Resource.h
+  afxres.h
+  NoPopups.mak
+  NoPopups.prj
+Chap10\NoPopups\Debug
+  NoPopups.exe
+Chap10\NoPopups\Release
+  NoPopups.exe
+Chap10\PopPad2
+  PopPad2.c
+  PopPad2.rc
+  Resource.h
+  afxres.h
+  PopPad2.mak
+  PopPad2.prj
+Chap10\PopPad2\Debug
+  PopPad2.exe
+Chap10\PopPad2\Release
+  PopPad2.exe          ; 248 files thru Chap10
+Chap11\About1
+  About1.c
+  About1.rc
+  Resource.h
+  afxres.h
+  About1.mak
+  About1.prj
+Chap11\About1\Debug
+  About1.exe
+Chap11\About1\Release
+  About1.exe
+Chap11\About2
+  About2.c
+  About2.rc
+  Resource.h
+  afxres.h
+  About2.mak
+  About2.prj
+Chap11\About2\Debug
+  About2.exe
+Chap11\About2\Release
+  About2.exe
+Chap11\About3
+  About3.c
+  About3.rc
+  Resource.h
+  afxres.h
+  About3.mak
+  About3.prj
+Chap11\About3\Debug
+  About3.exe
+Chap11\About3\Release
+  About3.exe
+Chap11\Colors2
+  Colors2.c
+  Colors2.rc
+  Resource.h
+  afxres.h
+  Colors2.mak
+  Colors2.prj
+Chap11\Colors2\Debug
+  Colors2.exe
+Chap11\Colors2\Release
+  Colors2.exe
+Chap11\HexCalc
+  HexCalc.c
+  HexCalc.rc
+  HexCalc.dlg
+  Resource.h
+  afxres.h
+  HexCalc.mak
+  HexCalc.prj
+Chap11\HexCalc\Debug
+  HexCalc.exe
+Chap11\HexCalc\Release
+  HexCalc.exe
+Chap11\PopPad3
+  PopPad.c
+  PopFile.c
+  PopFind.c
+  PopFont.c
+  PopPrnt0.c
+  Poppad.rc        ; this is Petzold's spelling
+  Resource.h
+  afxres.h
+  PopPad3.mak
+  PopPad3.prj
+Chap11\PopPad3\Debug
+  PopPad3.exe
+Chap11\PopPad3\Release
+  PopPad3.exe
+Chap11\Colors3
+  Colors3.c
+  Colors3.mak
+  Colors3.prj
+Chap11\Colors3\Debug
+  Colors3.exe
+Chap11\Colors3\Release
+  Colors3.exe          ; 306 files thru Chap11
+Chap12\ClipText
+  ClipText.c
+  ClipText.rc
+  Resource.h
+  afxres.h
+  ClipText.mak
+  ClipText.prj
+Chap12\ClipText\Debug
+  ClipText.exe
+Chap12\ClipText\Release
+  ClipText.exe
+Chap12\ClipView
+  ClipView.c
+  ClipView.mak
+  ClipView.prj
+Chap12\ClipView\Debug
+  ClipView.exe
+Chap12\ClipView\Release
+  ClipView.exe         ; 319 files thru Chap12
+Chap13\DevCaps2
+  DevCaps2.c
+  DevCaps2.rc
+  Resource.h
+  afxres.h
+  DevCaps2.mak
+  DevCaps2.prj
+Chap13\DevCaps2\Release
+  DevCaps2.exe
+Chap13\DevCaps2\Debug
+  DevCaps2.exe
+Chap13\FormFeed
+  FormFeed.c
+  FormFeed.mak
+  FormFeed.prj
+Chap13\FormFeed\Debug
+  FormFeed.exe
+Chap13\FormFeed\Release
+  FormFeed.exe
+Chap13\Print1
+  Print1.c
+  Print.c
+  GetPrnDC.c
+  Print1.mak
+  Print1.prj
+Chap13\Print1\Debug
+  Print1.exe
+Chap13\Print1\Release
+  Print1.exe
+Chap13\Print2
+  Print2.c
+  Print2.mak
+  Print2.prj
+Chap13\Print2\Debug
+  Print2.exe
+Chap13\Print2\Release
+  Print2.exe
+Chap13\Print3
+  Print3.c
+  Print.rc
+  Resource.h
+  afxres.h
+  Print3.mak
+  Print3.prj
+Chap13\Print3\Debug
+  Print3.exe
+Chap13\Print3\Release
+  Print3.exe
+Chap13\PopPad
+  PopPad.c
+  PopFile.c
+  PopFind.c
+  PopFont.c
+  PopPrnt.c
+  Poppad.rc        ; this is Petzold's spelling
+  Resource.h
+  afxres.h
+  PopPad.mak
+  PopPad.prj
+Chap13\PopPad\Debug
+  PopPad.exe
+Chap13\PopPad\Release
+  PopPad.exe           ; 364 files thru Chap13
+Chap14\BitBlt
+  BitBlt.c
+  BitBlt.mak
+  BitBlt.prj
+Chap14\BitBlt\Debug
+  BitBlt.exe
+Chap14\BitBlt\Release
+  BitBlt.exe
+Chap14\Stretch
+  Stretch.c
+  Stretch.mak
+  Stretch.prj
+Chap14\Stretch\Debug
+  Stretch.exe
+Chap14\Stretch\Release
+  Stretch.exe
+Chap14\Bricks1
+  Bricks1.c
+  Bricks1.rc
+  Resource.h
+  afxres.h
+  Bricks1.mak
+  Bricks1.prj
+Chap14\Bricks1\Debug
+  Bricks1.exe
+Chap14\Bricks1\Release
+  Bricks1.exe
+Chap14\Bricks2
+  Bricks2.c
+  Bricks2.mak
+  Bricks2.prj
+Chap14\Bricks2\Debug
+  Bricks2.exe
+Chap14\Bricks2\Release
+  Bricks2.exe
+Chap14\Bricks3
+  Bricks3.c       ; Petzold used capital C filename suffix
+  Bricks3.rc
+  Resource.h
+  afxres.h
+  Bricks3.mak
+  Bricks3.prj
+Chap14\Bricks3\Debug
+  Bricks3.exe
+Chap14\Bricks3\Release
+  Bricks3.exe
+Chap14\HelloBit
+  HelloBit.c
+  HelloBit.rc
+  Resource.h
+  afxres.h
+  HelloBit.mak
+  HelloBit.prj
+Chap14\HelloBit\Debug
+  HelloBit.exe
+Chap14\HelloBit\Release
+  HelloBit.exe
+Chap14\Sketch
+  Sketch.c
+  Sketch.mak
+  Sketch.prj
+Chap14\Sketch\Debug
+  Sketch.exe
+Chap14\Sketch\Release
+  Sketch.exe
+Chap14\GrafMenu
+  GrafMenu.c
+  GrafMenu.rc
+  Resource.h
+  afxres.h
+  GrafMenu.mak
+  GrafMenu.prj
+Chap14\GrafMenu\Debug
+  GrafMenu.exe
+Chap14\GrafMenu\Release
+  GrafMenu.exe
+Chap14\BitMask
+  BitMask.c
+  BitMask.rc
+  Resource.h
+  afxres.h
+  BitMask.mak
+  BitMask.prj
+Chap14\BitMask\Debug
+  BitMask.exe
+Chap14\BitMask\Release
+  BitMask.exe
+Chap14\Bounce
+  Bounce.c
+  Bounce.mak
+  Bounce.prj
+Chap14\Bounce\Debug
+  Bounce.exe
+Chap14\Bounce\Release
+  Bounce.exe
+Chap14\Scramble
+  Scramble.c
+  Scramble.mak
+  Scramble.prj
+Chap14\Scramble\Debug
+  Scramble.exe
+Chap14\Scramble\Release
+  Scramble.exe
+Chap14\Blowup
+  Blowup.c
+  Blowup.rc
+  Resource.h
+  afxres.h
+  Blowup.mak
+  Blowup.prj
+Chap14\Blowup\Debug
+  Blowup.exe
+Chap14\Blowup\Release
+  Blowup.exe             ; 442 files thru Chap14
+Chap15\DibHeads
+  DibHeads.c
+  DibHeads.rc
+  Resource.h
+  afxres.h
+  DibHeads.mak
+  DibHeads.prj
+Chap15\DibHeads\Debug
+  DibHeads.exe
+Chap15\DibHeads\Release
+  DibHeads.exe
+Chap15\ShowDib1
+  ShowDib1.c
+  DibFile.c
+  DibFile.h
+  ShowDib1.rc
+  Resource.c
+  afxres.h
+  ShowDib1.mak
+  ShowDib1.prj
+Chap15\ShowDib1\Debug
+  ShowDib1.exe
+Chap15\ShowDib1\Release
+  ShowDib1.exe
+Chap15\Apollo11
+  Apollo11.c
+  DibFile.h
+  Apollo11.mak
+  Apollo11.prj
+Chap15\Apollo11\Debug
+  Apollo11.exe
+Chap15\Apollo11\Release
+  Apollo11.exe
+Chap15\SeqDisp
+  SeqDisp.c
+  SeqDisp.rc
+  Resource.h
+  afxres.h
+  SeqDisp.mak
+  SeqDisp.prj
+Chap15\SeqDisp\Debug
+  SeqDisp.exe
+Chap15\SeqDisp\Release
+  SeqDisp.exe
+Chap15\ShowDib2
+  Showdib2.c        ; this is Petzold's spelling
+  ShowDib2.rc
+  DibFile.c
+  DibFile.h
+  Resource.h
+  afxres.h
+  ShowDib2.mak
+  ShowDib2.prj
+Chap15\ShowDib2\Debug
+  ShowDib2.exe
+Chap15\ShowDib2\Release
+  ShowDib2.exe
+Chap15\DibConv
+  DibConv.c
+  DibConv.rc
+  Resource.h
+  afxres.h
+  DibConv.mak
+  DibConv.prj
+Chap15\DibConv\Debug
+  DibConv.exe
+Chap15\DibConv\Release
+  DibConv.exe
+Chap15\DibSect
+  DibSect.c
+  DibSect.rc
+  Resource.h
+  afxres.h
+  DibSect.mak
+  DibSect.prj
+Chap15\DibSect\Debug
+  DibSect.exe
+Chap15\DibSect\Release
+  DibSect.exe            ; 500 files thru Chap 15
+Chap16\Grays1
+  Grays1.c
+  Grays1.mak
+  Grays1.prj
+Chap16\Grays1\Debug
+  Grays1.exe
+Chap16\Grays1\Release
+  Grays1.exe
+Chap16\Grays2
+  Grays2.c
+  Grays2.mak
+  Grays2.prj
+Chap16\Grays2\Debug
+  Grays2.exe
+Chap16\Grays2\Release
+  Grays2.exe
+Chap16\Grays3
+  Grays3.c
+  Grays3.mak
+  Grays3.prj
+Chap16\Grays3\Debug
+  Grays3.exe
+Chap16\Grays3\Release
+  Grays3.exe
+Chap16\SysPal1
+  SysPal1.c
+  SysPal1.mak
+  SysPal1.prj
+Chap16\SysPal1\Debug
+  SysPal1.exe
+Chap16\SysPal1\Release
+  SysPal1.exe
+Chap16\SysPal2
+  SysPal2.c
+  SysPal2.mak
+  SysPal2.prj
+Chap16\SysPal2\Debug
+  SysPal2.exe
+Chap16\SysPal2\Release
+  SysPal2.exe
+Chap16\SysPal3
+  SysPal3.c
+  SysPal3.mak
+  SysPal3.prj
+Chap16\SysPal3\Debug
+  SysPal3.exe
+Chap16\SysPal3\Release
+  SysPal3.exe
+Chap16\Bounce
+  Bounce.c
+  PalAnim.c
+  Bounce.mak       ; Chap14 also has a Bounce project
+  Bounce.prj
+Chap16\Bounce\Debug
+  Bounce.exe
+Chap16\Bounce\Release
+  Bounce.exe
+Chap16\Fader
+  Fader.c
+  Fader.mak
+  Fader.prj
+Chap16\Fader\Debug
+  Fader.exe
+Chap16\Fader\Release
+  Fader.exe
+Chap16\AllColor
+  AllColor.c
+  AllColor.mak
+  AllColor.prj
+Chap16\AllColor\Debug
+  AllColor.exe
+Chap16\AllColor\Release
+  AllColor.exe
+Chap16\Pipes
+  Pipes.c
+  Pipes.mak
+  Pipes.prj
+Chap16\Pipes\Debug
+  Pipes.exe
+Chap16\Pipes\Release
+  Pipes.exe
+Chap16\Tunnel
+  Tunnel.c
+  Tunnel.mak
+  Tunnel.prj
+Chap16\Tunnel\Debug
+  Tunnel.exe
+Chap16\Tunnel\Release
+  Tunnel.exe
+Chap16\ShowDib3
+  ShowDib3.c
+  ShowDib3.rc
+  PackeDib.c
+  PackeDib.h
+  Resource.h
+  afxres.h
+  ShowDib3.mak
+  ShowDib3.prj
+Chap16\ShowDib3\Debug
+  ShowDib3.exe
+Chap16\ShowDib3\Release
+  ShowDib3.exe
+Chap16\ShowDib4
+  ShowDib4.c
+  ShowDib4.rc
+  Resource.h
+  afxres.h
+  ShowDib4.mak
+  ShowDib4.prj
+Chap16\ShowDib4\Debug
+  ShowDib4.exe
+Chap16\ShowDib4\Release
+  ShowDib4.exe
+Chap16\ShowDib5
+  ShowDib5.c
+  ShowDib5.rc
+  Resource.h
+  afxres.h
+  ShowDib5.mak
+  ShowDib5.prj
+Chap16\ShowDib5\Debug
+  ShowDib5.exe
+Chap16\ShowDib5\Release
+  ShowDib5.exe
+Chap16\ShowDib6
+  ShowDib6.c
+  ShowDib6.rc
+  Resource.h
+  afxres.h
+  ShowDib6.mak
+  ShowDib6.prj
+Chap16\ShowDib6\Debug
+  ShowDib6.exe
+Chap16\ShowDib6\Release
+  ShowDib6.exe
+Chap16\ShowDib7
+  ShowDib7.c
+  ShowDib7.rc
+  Resource.h
+  afxres.h
+  ShowDib7.mak
+  ShowDib7.prj
+Chap16\ShowDib7\Debug
+  ShowDib7.exe
+Chap16\ShowDib7\Release
+  ShowDib7.exe
+Chap16\ShowDib8
+  ShowDib8.c
+  ShowDib8.rc
+  Resource.h
+  afxres.h
+  ShowDib8.mak
+  ShowDib8.prj
+Chap16\ShowDib8\Debug
+  ShowDib8.exe
+Chap16\ShowDib8\Release
+  ShowDib8.exe
+Chap16\Dibble
+  Dibble.c
+  Dibble.rc
+  Resource.h
+  DibHelp.c
+  DibHelp.h
+  DibConv.c
+  DibConv.h
+  DibPal.c
+  DibPal.h
+  afxres.h
+  Dibble.mak
+  Dibble.prj
+Chap16\Dibble\Debug
+  Dibble.exe
+Chap16\Dibble\Release
+  Dibble.exe          ; 620 files thru Chap16
+Chap17\PickFont
+  PickFont.c
+  PickFont.rc
+  Resource.h
+  afxres.h
+  PickFont.mak
+  PickFont.prj
+Chap17\PickFont\Debug
+  PickFont.exe
+Chap17\PickFont\Release
+  PickFont.exe
+Chap17\EZTest
+  EZTest.c
+  EZFont.c
+  EZFont.h
+  FontDemo.c
+  FontDemo.rc
+  Resource.h
+  afxres.h
+  EZTest.mak
+  EZTest.prj
+Chap17\EZTest\Debug
+  EZTest.exe
+Chap17\EZTest\Release
+  EZTest.exe
+Chap17\FontRot
+  FontRot.c
+  FontRot.mak
+  FontRot.prj
+Chap17\FontRot\Debug
+  FontRot.exe
+Chap17\FontRot\Release
+  FontRot.exe
+Chap17\ChosFont
+  ChosFont.c
+  ChosFont.rc
+  Resource.h
+  afxres.h
+  ChosFont.mak
+  ChosFont.prj
+Chap17\ChosFont\Debug
+  ChosFont.exe
+Chap17\ChosFont\Release
+  ChosFont.exe
+Chap17\UniChars
+  Unichars.c
+  Unichars.rc
+  Resource.h
+  afxres.h
+  UniChars.mak
+  UniChars.prj
+Chap17\UniChars\Debug
+  UniChars.exe
+Chap17\UniChars\Release
+  UniChars.exe
+Chap17\Justify1
+  Justify1.c
+  Justify1.rc
+  Resource.h
+  afxres.h
+  Justify1.mak
+  Justify1.prj
+Chap17\Justify1\Debug
+  Justify1.exe
+Chap17\Justify1\Release
+  Justify1.exe
+Chap17\Justify2
+  Justify2.c
+  Justify2.rc
+  Resource.h
+  afxres.h
+  Justify2.mak
+  Justify2.prj
+Chap17\Justify2\Debug
+  Justify2.exe
+Chap17\Justify2\Release
+  Justify2.exe
+Chap17\EndJoin
+  EndJoin.c
+  EndJoin.mak
+  EndJoin.prj
+Chap17\EndJoin\Debug
+  EndJoin.exe
+Chap17\EndJoin\Release
+  EndJoin.exe
+Chap17\FontOut1
+  FontOut1.c
+  FontOut1.mak
+  FontOut1.prj
+Chap17\FontOut1\Debug
+  FontOut1.exe
+Chap17\FontOut1\Release
+  FontOut1.exe
+Chap17\FontOut2
+  FontOut2.c
+  FontOut2.mak
+  FontOut2.prj
+Chap17\FontOut2\Debug
+  FontOut2.exe
+Chap17\FontOut2\Release
+  FontOut2.exe
+Chap17\FontFill
+  FontFill.c
+  FontFill.mak
+  FontFill.prj
+Chap17\FontFill\Debug
+  FontFill.exe
+Chap17\FontFill\Release
+  FontFill.exe
+Chap17\FontClip
+  FontClip.c
+  FontClip.mak
+  FontClip.prj
+Chap17\FontClip\Debug
+  FontClip.exe
+Chap17\FontClip\Release
+  FontClip.exe          ; 701 files thru Chap17
+Chap18\Metafile
+  Metafile.c
+  Metafile.mak
+  Metafile.prj
+Chap18\Metafile\Debug
+  Metafile.exe
+Chap18\Metafile\Release
+  Metafile.exe
+Chap18\Emf1
+  Emf1.c
+  Emf1.mak
+  Emf1.prj
+Chap18\Emf1\Debug
+  Emf1.exe
+Chap18\Emf1\Release
+  Emf1.exe
+Chap18\Emf2
+  Emf2.c
+  Emf2.mak
+  Emf2.prj
+Chap18\Emf2\Debug
+  Emf2.exe
+Chap18\Emf2\Release
+  Emf2.exe
+Chap18\Emf3
+  Emf3.c
+  Emf3.mak
+  Emf3.prj
+Chap18\Emf3\Debug
+  Emf3.exe
+Chap18\Emf3\Release
+  Emf3.exe
+Chap18\Emf4
+  Emf4.c
+  Emf4.mak
+  Emf4.prj
+Chap18\Emf4\Debug
+  Emf4.exe
+Chap18\Emf4\Release
+  Emf4.exe
+Chap18\Emf5
+  Emf5.c
+  Emf5.mak
+  Emf5.prj
+Chap18\Emf5\Debug
+  Emf5.exe
+Chap18\Emf5\Release
+  Emf5.exe
+Chap18\Emf6
+  Emf6.c
+  Emf6.mak
+  Emf6.prj
+Chap18\Emf6\Debug
+  Emf6.exe
+Chap18\Emf6\Release
+  Emf6.exe
+Chap18\Emf7
+  Emf7.c
+  Emf7.mak
+  Emf7.prj
+Chap18\Emf7\Debug
+  Emf7.exe
+Chap18\Emf7\Release
+  Emf7.exe
+Chap18\Emf8
+  Emf8.c
+  Emf.c
+  Emf.rc
+  Resource.h
+  afxres.h
+  Emf8.mak
+  Emf8.prj
+Chap18\Emf8\Debug
+  Emf8.exe
+Chap18\Emf8\Release
+  Emf8.exe
+Chap18\EmfView
+  EmfView.c
+  EmfView.rc
+  Resource.h
+  afxres.h
+  EmfView.mak
+  EmfView.prj
+Chap18\EmfView\Debug
+  EmfView.exe
+Chap18\EmfView\Release
+  EmfView.exe
+Chap18\Emf9
+  Emf9.c
+  Emf9.mak
+  Emf9.prj
+Chap18\Emf9\Debug
+  Emf9.exe
+Chap18\Emf9\Release
+  Emf9.exe
+Chap18\Emf10
+  Emf10.c
+  Emf10.mak
+  Emf10.prj
+Chap18\Emf10\Debug
+  Emf10.exe
+Chap18\Emf10\Release
+  Emf10.exe
+Chap18\Emf11
+  Emf11.c
+  Emf11.mak
+  Emf11.prj
+Chap18\Emf11\Debug
+  Emf11.exe
+Chap18\Emf11\Release
+  Emf11.exe
+Chap18\Emf12
+  Emf12.c
+  Emf12.mak
+  Emf12.prj
+Chap18\Emf12\Debug
+  Emf12.exe
+Chap18\Emf12\Release
+  Emf12.exe
+Chap18\Emf13
+  Emf13.c
+  Emf13.mak
+  Emf13.prj
+Chap18\Emf13\Debug
+  Emf13.exe
+Chap18\Emf13\Release
+  Emf13.exe            ; 783 files thru Chap18
+Chap19\MDIDemo
+  MDIDemo.c
+  MDIDemo.rc
+  Resource.h
+  afxres.h
+  MDIDemo.mak
+  MDIDemo.prj
+Chap19\MDIDemo\Debug
+  MDIDemo.exe
+Chap19\MDIDemo\Release
+  MDIDemo.exe          ; 791 files thru Chap19
+Chap20\RndRctMT
+  RndRctMT.c
+  RndRctMT.mak
+  RndRctMT.prj
+Chap20\RndRctMT\Debug
+  RndRctMT.exe
+Chap20\RndRctMT\Release
+  RndRctMT.exe
+Chap20\Multi1
+  Multi1.c
+  Multi1.mak
+  Multi1.prj
+Chap20\Multi1\Debug
+  Multi1.exe
+Chap20\Multi1\Release
+  Multi1.exe
+Chap20\Multi2
+  Multi2.c
+  Multi2.mak
+  Multi2.prj
+Chap20\Multi2\Debug
+  Multi2.exe
+Chap20\Multi2\Release
+  Multi2.exe
+Chap20\BigJob1
+  BigJob1.c
+  BigJob1.mak
+  BigJob1.prj
+Chap20\BigJob1\Debug
+  BigJob1.exe
+Chap20\BigJob1\Release
+  BigJob1.exe
+Chap20\BigJob2
+  BigJob2.c
+  BigJob2.mak
+  BigJob2.prj
+Chap20\BigJob2\Debug
+  BigJob2.exe
+Chap20\BigJob2\Release
+  BigJob2.exe          ; 816 files thru Chap20
+Chap21\EdrTest
+  EdrTest.c
+  EdrLib.c
+  EdrLib.h
+  EdrTest.mak
+  EdrTest.prj
+Chap21\EdrTest\Debug
+  EdrTest.exe
+  EdrLib.dll
+  EdrLib.lib
+Chap21\EdrTest\Release
+  EdrTest.exe
+  EdrLib.dll
+  EdrLib.lib
+Chap21\StrProg
+  StrProg.c
+  StrLib.c
+  StrLib.h
+  StrProg.rc
+  Resource.h
+  afxres.h
+  StrProg.mak
+  StrProg.prj
+Chap21\StrProg\Debug
+  StrProg.exe
+  StrLib.dll
+  StrLib.lib
+Chap21\StrProg\Release
+  StrProg.exe
+  StrLib.dll
+  StrLib.lib
+Chap21\ShowBit
+  ShowBit.c
+  BitLib.c
+  BitLib.rc
+  Resource.h
+  afxres.h
+  ShowBit.mak
+  ShowBit.prj
+Chap21\ShowBit\Debug
+  ShowBit.exe
+  BitLib.dll
+Chap21\ShowBit\Release
+  ShowBit.exe
+  BitLib.dll           ; 852 files thru Chap21
+Chap22\TestMci
+  TestMci.c
+  TestMci.rc
+  Resource.h
+  afxres.h
+  TestMci.mak
+  TestMci.prj
+Chap22\TestMci\Debug
+  TestMci.exe
+Chap22\TestMci\Release
+  TestMci.exe
+Chap22\SineWave        ; Chap 5 also has a SineWave project
+  SineWave.r
+  SineWave.rc
+  Resource.h
+  afxres.h
+  SineWave.mak
+  SineWave.prj
+Chap22\SineWave\Debug
+  SineWave.exe
+Chap22\SineWave\Release
+  SineWave.exe
+Chap22\Record1
+  Record1.c
+  Record.rc
+  Resource.h
+  afxres.h
+  Record1.mak
+  Record1.prj
+Chap22\Record1\Debug
+  Record1.exe
+Chap22\Record1\Release
+  Record1.exe
+Chap22\Record2
+  Record2.c
+  Record2.mak
+  Record2.prj
+Chap22\Record2\Debug
+  Record2.exe
+Chap22\Record2\Release
+  Record2.exe
+Chap22\Record3
+  Record3.c
+  Record3.mak
+  Record3.prj
+Chap22\Record3\Debug
+  Record3.exe
+Chap22\Record3\Release
+  Record3.exe
+Chap22\AddSynth
+  AddSynth.c
+  AddSynth.h
+  AddSynth.rc
+  Resource.h
+  afxres.h
+  AddSynth.mak
+  AddSynth.prj
+Chap22\AddSynth\Debug
+  AddSynth.exe
+Chap22\AddSynth\Release
+  AddSynth.exe
+Chap22\WakeUp
+  WakeUp.c
+  WakeUp.mak
+  WakeUp.prj
+Chap22\WakeUp\Debug
+  WakeUp.exe
+Chap22\WakeUp\Release
+  WakeUp.exe
+Chap22\BachTocc
+  BachTocc.c
+  BachTocc.mak
+  BachTocc.prj
+Chap22\BachTocc\Debug
+  BachTocc.exe
+Chap22\BachTocc\Release
+  BachTocc.exe
+Chap22\KBMidi
+  KBMidi.c
+  KBMidi.mak
+  KBMidi.prj
+Chap22\KBMidi\Debug
+  KBMidi.exe
+Chap22\KBMidi\Release
+  KBMidi.exe
+Chap22\Drum
+  Drum.c
+  Drum.rc
+  DrumFile.c
+  DrumFile.h
+  DrumTime.c
+  DrumTime.h
+  Resource.h
+  afxres.h
+  Drum.mak
+  Drum.prj
+Chap22\Drum\Debug
+  Drum.exe
+Chap22\Drum\Release
+  Drum.exe          ; 922 files thru Chap22
+Chap23\NetTime
+  NetTime.c
+  NetTime.rc
+  Resource.h
+  afxres.h
+  NetTime.mak
+  NetTime.prj
+Chap23\NetTime\Debug
+  NetTime.exe
+Chap23\NetTime\Release
+  NetTime.exe
+Chap23\UpdDemo
+  UpdDemo.c
+  UpdDemo.rc
+  Resource.h
+  afxres.h
+  UpdDemo.mak
+  UpdDemo.prj
+Chap23\UpdDemo\Debug
+  UpdDemo.exe
+Chap23\UpdDemo\Release
+  UpdDemo.exe          ; 938 files thru Chap23
